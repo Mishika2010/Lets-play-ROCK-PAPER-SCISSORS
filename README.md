@@ -1,1 +1,1 @@
-# Lets-play-ROCK-PAPER-SCISSORS
+# rock-paper-scissor-boilerplate
